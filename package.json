@@ -4,9 +4,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon index.js",
-    "dev-server": "nodemon server.js",
-    "build": "webpack"
+    "start": "nodemon server.js"
   },
   "author": "",
   "license": "ISC",
